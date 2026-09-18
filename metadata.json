@@ -1,0 +1,8 @@
+{
+  "name": "Remix North Indian \u0026 Punjabi Royal Wedding | Gurpreet \u0026 Harleen",
+  "description": "Royal Anand Karaj wedding invitation for Gurpreet \u0026 Harleen at Taj Swarna \u0026 Royal Grand Palace, Amritsar, Punjab. Featuring sacred Hathlewa 3D scratch card, Shehnai music, wedding ceremonies, and guest blessings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
